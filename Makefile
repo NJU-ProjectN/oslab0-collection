@@ -12,7 +12,9 @@ $(ALL): %: %/Makefile
 	@/bin/echo -e 'NAME = $(@D)\nSRCS = $$(shell find . -name '*.c')\nLIBS += klib\ninclude $$(AM_HOME)/Makefile.app' > $@
 	-@$(MAKE) -C $(@D) -s ARCH=$(ARCH) $(MAKECMDGOALS)
 
-run: all
+#cancel rules included by $(AM_HOME)/Makefile.check
+image: ;
+default $(MAKECMDGOALS): all;
 
 clean: 
 	-rm -rf $(MAKEFILES)
