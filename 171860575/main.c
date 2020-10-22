@@ -1,6 +1,4 @@
-#include<am.h>
-#include<amdev.h>
-#include<klib.h>
+#include<legacy.h>
 char Vyi8XZjDoj[16];
 int PNOyOWxJpK,JIGYRzzmas,J_Sl6Dag5p,Lr13OEObb4;
 void RsBhhiFFvE();

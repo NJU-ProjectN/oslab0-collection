@@ -1,6 +1,4 @@
-#include<am.h>
-#include<klib.h>
-#include<amdev.h>
+#include<legacy.h>
 static inline void Vyi8XZjDoj(const char *PNOyOWxJpK) {
   for (; *PNOyOWxJpK; PNOyOWxJpK++) _putc(*PNOyOWxJpK);
 }

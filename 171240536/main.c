@@ -1,6 +1,4 @@
-#include<am.h>
-#include<amdev.h>
-#include<klib.h>
+#include<legacy.h>
 static inline void Vyi8XZjDoj(const char *PNOyOWxJpK, int JIGYRzzmas, int J_Sl6Dag5p, int Lr13OEObb4);
 static inline void RsBhhiFFvE(const char *yAFGLz8ME3) {
   for (; *yAFGLz8ME3; yAFGLz8ME3++) _putc(*yAFGLz8ME3);

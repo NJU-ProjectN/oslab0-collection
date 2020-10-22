@@ -1,6 +1,4 @@
-#include<am.h>
-#include<amdev.h>
-#include<klib.h>
+#include<legacy.h>
 typedef char Vyi8XZjDoj;
 static inline void PNOyOWxJpK(const char *JIGYRzzmas) {
   for (; *JIGYRzzmas; JIGYRzzmas++) _putc(*JIGYRzzmas);
@@ -1254,8 +1252,8 @@ void nkBNADC_Xh() {
   Lr13OEObb4 = screen_height();
 }
 int main() {
- srand(uptime());
  _ioe_init();
+ srand(uptime());
   nkBNADC_Xh();
  printf("%s\n", Fs8Hb_xg29);
  X4odtExhGz();

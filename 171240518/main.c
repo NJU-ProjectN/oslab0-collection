@@ -1,6 +1,4 @@
-#include<am.h>
-#include<amdev.h>
-#include<klib.h>
+#include<legacy.h>
 union Vyi8XZjDoj{
   uint32_t PNOyOWxJpK;
   struct{
@@ -221,9 +219,9 @@ void Apv7PJcujL(char* raB0cxTuRP,int oT4p6Ulx7J,int W2yp9bnpy5,size_t AlM0UT25fL
     }
 }
 int main() {
+  _ioe_init();
   srand(uptime());
   printf("Hello World!\n");
-  _ioe_init();
   cZ5d65ts5U();
   OqmibpybCn();
   while (1) {

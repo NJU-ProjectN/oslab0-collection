@@ -6,7 +6,7 @@
 
 ## 编译方式
 
-需要依赖[AM项目](https://github.com/NJU-ProjectN/nexus-am.git)进行编译, 具体请参考AM项目.
+需要依赖[AM项目](https://github.com/NJU-ProjectN/abstract-machine.git)进行编译, 具体请参考AM项目.
 
 ## 收录要求
 
@@ -14,7 +14,7 @@
 * 不含平台相关代码 
 * 不含浮点数
 * 不要作"屏幕大小固定"的假设
-* 分配无需初始化的大数组时尽量使用TRM的`_heap`
+* 分配无需初始化的大数组时尽量使用TRM的`heap`
 * 在native和x86-nemu的AM上游戏体验皆良好
 * 好玩
 

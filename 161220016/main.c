@@ -1,11 +1,9 @@
-#include <am.h>
-#include <amdev.h>
-#include <klib.h>
+#include <legacy.h>
 
 void Vyi8XZjDoj();
 
 int main() {
-  if (_ioe_init() != 0)
+  if (_ioe_init() != 1)
     _halt(1);
 
   printf("------------------------------\n");
@@ -128,6 +126,7 @@ static void pVquJtRsOw() {
 static void hRIJHsqzlx() {
   for (int K7z_BayAM3 = 0; K7z_BayAM3 < RsBhhiFFvE.J_Sl6Dag5p; K7z_BayAM3++)
     draw_rect(&pu0XGjLhxR[K7z_BayAM3 * RsBhhiFFvE.JIGYRzzmas], 0, K7z_BayAM3, RsBhhiFFvE.JIGYRzzmas, 1);
+  draw_sync();
 }
 
 static int mzR186wepk, PNOyOWxJpK, Ni4LED3jUH, MTpeqVwHlI;

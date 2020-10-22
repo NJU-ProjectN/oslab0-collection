@@ -1,6 +1,4 @@
-#include<am.h>
-#include<amdev.h>
-#include<klib.h>
+#include<legacy.h>
 struct Vyi8XZjDoj {
   int PNOyOWxJpK, JIGYRzzmas;
 };

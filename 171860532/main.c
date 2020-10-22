@@ -1,6 +1,4 @@
-#include<am.h>
-#include<amdev.h>
-#include<klib.h>
+#include<legacy.h>
 typedef uint8_t Vyi8XZjDoj;
 static void PNOyOWxJpK(uint32_t *JIGYRzzmas, uint32_t *J_Sl6Dag5p)
 {

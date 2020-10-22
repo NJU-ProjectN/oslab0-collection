@@ -1,6 +1,4 @@
-#include<am.h>
-#include<amdev.h>
-#include<klib.h>
+#include<legacy.h>
 typedef uint32_t Vyi8XZjDoj;
 static inline void PNOyOWxJpK(const char *JIGYRzzmas) {
   for (; *JIGYRzzmas; JIGYRzzmas++) _putc(*JIGYRzzmas);
