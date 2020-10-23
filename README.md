@@ -6,7 +6,13 @@
 
 ## 编译方式
 
-需要依赖[AM项目](https://github.com/NJU-ProjectN/abstract-machine.git)进行编译, 具体请参考AM项目.
+需要依赖[AM项目](https://github.com/NJU-ProjectN/abstract-machine.git)进行编译.
+编译方式如下:
+```bash
+cd 161220016   # 进入作品目录
+make ARCH=native -f ../Makefile
+```
+详细内容请参考AM项目.
 
 ## 收录要求
 
