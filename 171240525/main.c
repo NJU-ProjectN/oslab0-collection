@@ -1563,9 +1563,9 @@ void eZelonvCFU()
         case 1:
          if (GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].JCyb92PO2X)
          {
-          int c3QL4Ztrp1 = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0xff0000)*0.75 + 0.25*0x7b0000)&0xff0000;
-          int sLmI1owfcc = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x00ff00)*0.75 + 0.25*0x00c600)&0xff00;
-          int X4odtExhGz = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x0000ff)*0.75 + 0.25*0x000035)&0xff;
+          int c3QL4Ztrp1 = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0xff0000)*3/4 + 0x7b0000/4)&0xff0000;
+          int sLmI1owfcc = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x00ff00)*3/4 + 0x00c600/4)&0xff00;
+          int X4odtExhGz = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x0000ff)*3/4 + 0x000035/4)&0xff;
                J_Sl6Dag5p((Lr13OEObb4*16 + hlkzrt0baS + tl7Kc3Gx6U)*Ni4LED3jUH, (RsBhhiFFvE*16 + PNOyOWxJpK + MTpeqVwHlI)*Ni4LED3jUH, Ni4LED3jUH, Ni4LED3jUH, c3QL4Ztrp1 + sLmI1owfcc + X4odtExhGz);
          }
          else
@@ -1574,9 +1574,9 @@ void eZelonvCFU()
         case 2:
          if (GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].JCyb92PO2X)
          {
-          int c3QL4Ztrp1 = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0xff0000)*0.75 + 0x3c0000)&0xff0000;
-          int sLmI1owfcc = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x00ff00)*0.75 + 0x000000)&0xff00;
-          int X4odtExhGz = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x0000ff)*0.75 + 0x00003a)&0xff;
+          int c3QL4Ztrp1 = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0xff0000)*3/4 + 0x3c0000)&0xff0000;
+          int sLmI1owfcc = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x00ff00)*3/4 + 0x000000)&0xff00;
+          int X4odtExhGz = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x0000ff)*3/4 + 0x00003a)&0xff;
                J_Sl6Dag5p((Lr13OEObb4*16 + hlkzrt0baS + tl7Kc3Gx6U)*Ni4LED3jUH, (RsBhhiFFvE*16 + PNOyOWxJpK + MTpeqVwHlI)*Ni4LED3jUH, Ni4LED3jUH, Ni4LED3jUH, c3QL4Ztrp1 + sLmI1owfcc + X4odtExhGz);
          }
          else
@@ -1599,9 +1599,9 @@ void eZelonvCFU()
         case 1:
          if ((GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].JCyb92PO2X)&&((PNOyOWxJpK >= 2)&&(PNOyOWxJpK <= 13)&&(hlkzrt0baS >= 2)&&(hlkzrt0baS <= 13)))
          {
-          int c3QL4Ztrp1 = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0xff0000)*0.75 + 0.25*0x7b0000)&0xff0000;
-          int sLmI1owfcc = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x00ff00)*0.75 + 0.25*0x00c600)&0xff00;
-          int X4odtExhGz = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x0000ff)*0.75 + 0.25*0x000035)&0xff;
+          int c3QL4Ztrp1 = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0xff0000)*3/4 + 0x7b0000/4)&0xff0000;
+          int sLmI1owfcc = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x00ff00)*3/4 + 0x00c600/4)&0xff00;
+          int X4odtExhGz = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x0000ff)*3/4 + 0x000035/4)&0xff;
                J_Sl6Dag5p((Lr13OEObb4*16 + hlkzrt0baS + tl7Kc3Gx6U)*Ni4LED3jUH, (RsBhhiFFvE*16 + PNOyOWxJpK + MTpeqVwHlI)*Ni4LED3jUH, Ni4LED3jUH, Ni4LED3jUH, c3QL4Ztrp1 + sLmI1owfcc + X4odtExhGz);
          }
          else
@@ -1610,9 +1610,9 @@ void eZelonvCFU()
         case 2:
          if ((GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].JCyb92PO2X)&&((PNOyOWxJpK >= 2)&&(PNOyOWxJpK <= 13)&&(hlkzrt0baS >= 2)&&(hlkzrt0baS <= 13)))
          {
-          int c3QL4Ztrp1 = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0xff0000)*0.75 + 0x3c0000)&0xff0000;
-          int sLmI1owfcc = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x00ff00)*0.75 + 0x000000)&0xff00;
-          int X4odtExhGz = (int)((double)(akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x0000ff)*0.75 + 0x00003a)&0xff;
+          int c3QL4Ztrp1 = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0xff0000)*3/4 + 0x3c0000)&0xff0000;
+          int sLmI1owfcc = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x00ff00)*3/4 + 0x000000)&0xff00;
+          int X4odtExhGz = (int)((akI2wblQIp[GDOlvXNmhT[RsBhhiFFvE][Lr13OEObb4].IOjC2fkbCg][PNOyOWxJpK][hlkzrt0baS]&0x0000ff)*3/4 + 0x00003a)&0xff;
                J_Sl6Dag5p((Lr13OEObb4*16 + hlkzrt0baS + tl7Kc3Gx6U)*Ni4LED3jUH, (RsBhhiFFvE*16 + PNOyOWxJpK + MTpeqVwHlI)*Ni4LED3jUH, Ni4LED3jUH, Ni4LED3jUH, c3QL4Ztrp1 + sLmI1owfcc + X4odtExhGz);
          }
          else
@@ -1662,10 +1662,10 @@ void XD7kFstGd3()
   ;
  int IIsFjksDAJ = TSiSLYknYn - (vK_Tb2f4LK - 1)*16*Ni4LED3jUH;
  TSiSLYknYn -= IIsFjksDAJ;
- MTpeqVwHlI = (int)(double)IIsFjksDAJ/2;
+ MTpeqVwHlI = (int)IIsFjksDAJ/2;
  IIsFjksDAJ = yAFGLz8ME3 - (ceO5NPYidU - 1)*16*Ni4LED3jUH;
  yAFGLz8ME3 -= IIsFjksDAJ;
- tl7Kc3Gx6U = (int)(double)IIsFjksDAJ/2;
+ tl7Kc3Gx6U = (int)IIsFjksDAJ/2;
   for (ceO5NPYidU = 0; ceO5NPYidU*16*Ni4LED3jUH < yAFGLz8ME3; ceO5NPYidU ++)
   ;
  for (vK_Tb2f4LK = 0; vK_Tb2f4LK*16*Ni4LED3jUH < TSiSLYknYn; vK_Tb2f4LK ++)
