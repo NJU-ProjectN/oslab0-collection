@@ -1415,7 +1415,7 @@ void JIGYRzzmas()
    case 49:
     if ((GDOlvXNmhT[h72Vdp9m1b][ukvKuleR4X].erf1kA3ufC%4)&&(GDOlvXNmhT[h72Vdp9m1b][ukvKuleR4X].SU7984_mkw == 0)&&(c0esYbnYow.qBLBhlntx_ == 0)&&((GDOlvXNmhT[h72Vdp9m1b][ukvKuleR4X].erf1kA3ufC&0xc)==(c0esYbnYow.WxSdxkcUJN << 2)))
     {
-     c0esYbnYow.qBLBhlntx_ = 1; printf("\33[1;34m[%s,%d,%s] " "move: 请选择自己进行原地移动,或选择一块空地" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1452, __func__);
+     c0esYbnYow.qBLBhlntx_ = 1; printf("\33[1;34m[%s,%d,%s] " "move: 请选择自己进行原地移动,或选择一块空地" "\33[0m\n", "171240525/main.c", 1452, __func__);
      AlM0UT25fL = ukvKuleR4X;
      Wv1JqEgtYr = h72Vdp9m1b;
      mzR186wepk = ly0rql8X0e[GDOlvXNmhT[Wv1JqEgtYr][AlM0UT25fL].erf1kA3ufC&0x3].ngSRbtwYAy;
@@ -1423,7 +1423,7 @@ void JIGYRzzmas()
     }
     else if (((GDOlvXNmhT[h72Vdp9m1b][ukvKuleR4X].erf1kA3ufC%4 == 0)||((ukvKuleR4X == AlM0UT25fL)&&(h72Vdp9m1b == Wv1JqEgtYr)))&&(c0esYbnYow.qBLBhlntx_ == 1))
     {
-     c0esYbnYow.qBLBhlntx_ = 2; printf("\33[1;31m[%s,%d,%s] " "attack: 请选择空地/自己进行空操作,或者选择敌方单位" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1460, __func__);
+     c0esYbnYow.qBLBhlntx_ = 2; printf("\33[1;31m[%s,%d,%s] " "attack: 请选择空地/自己进行空操作,或者选择敌方单位" "\33[0m\n", "171240525/main.c", 1460, __func__);
      Apv7PJcujL = 1;
      int tEM14SHDoj = GDOlvXNmhT[Wv1JqEgtYr][AlM0UT25fL].erf1kA3ufC;
      GDOlvXNmhT[Wv1JqEgtYr][AlM0UT25fL].erf1kA3ufC = 0;
@@ -1436,7 +1436,7 @@ void JIGYRzzmas()
     }
     else if ((((GDOlvXNmhT[h72Vdp9m1b][ukvKuleR4X].erf1kA3ufC&0xc)!=(c0esYbnYow.WxSdxkcUJN << 2))||(GDOlvXNmhT[h72Vdp9m1b][ukvKuleR4X].erf1kA3ufC%4 == 0)||((ukvKuleR4X == pVquJtRsOw)&&(h72Vdp9m1b == hRIJHsqzlx)))&&(c0esYbnYow.qBLBhlntx_ == 2))
     {
-     c0esYbnYow.qBLBhlntx_ = 0; printf("\33[1;33m[%s,%d,%s] " "finish: 结束移动,回合内该单位不能再移动" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1473, __func__);
+     c0esYbnYow.qBLBhlntx_ = 0; printf("\33[1;33m[%s,%d,%s] " "finish: 结束移动,回合内该单位不能再移动" "\33[0m\n", "171240525/main.c", 1473, __func__);
      Apv7PJcujL = 0;
      if ((ukvKuleR4X == pVquJtRsOw)&&(h72Vdp9m1b == hRIJHsqzlx))
       ;
@@ -1454,13 +1454,13 @@ void JIGYRzzmas()
     switch (c0esYbnYow.qBLBhlntx_)
     {
      case 1:
-      c0esYbnYow.qBLBhlntx_ = 0; printf("\33[1;33m[%s,%d,%s] " "cancel: 取消选择该单位" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1492, __func__);
+      c0esYbnYow.qBLBhlntx_ = 0; printf("\33[1;33m[%s,%d,%s] " "cancel: 取消选择该单位" "\33[0m\n", "171240525/main.c", 1492, __func__);
       ukvKuleR4X = AlM0UT25fL;
       h72Vdp9m1b = Wv1JqEgtYr;
        K7z_BayAM3(0, 0, 0, 0, 0);
       break;
      case 2:
-      c0esYbnYow.qBLBhlntx_ = 1; printf("\33[1;34m[%s,%d,%s] " "rechoose the position: 重新选择目的地" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1498, __func__);
+      c0esYbnYow.qBLBhlntx_ = 1; printf("\33[1;34m[%s,%d,%s] " "rechoose the position: 重新选择目的地" "\33[0m\n", "171240525/main.c", 1498, __func__);
        Apv7PJcujL = 0;
       ukvKuleR4X = pVquJtRsOw;
       h72Vdp9m1b = hRIJHsqzlx;
@@ -1472,7 +1472,7 @@ void JIGYRzzmas()
        K7z_BayAM3(c0esYbnYow.qBLBhlntx_, mzR186wepk, AlM0UT25fL, Wv1JqEgtYr, c0esYbnYow.WxSdxkcUJN);
       break;
     }
-    printf("\33[1;32m[%s,%d,%s] " "mode: %d, range: %d" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1510, __func__, c0esYbnYow.qBLBhlntx_, mzR186wepk);
+    printf("\33[1;32m[%s,%d,%s] " "mode: %d, range: %d" "\33[0m\n", "171240525/main.c", 1510, __func__, c0esYbnYow.qBLBhlntx_, mzR186wepk);
     break;
    case 51:
     if (c0esYbnYow.qBLBhlntx_)
@@ -1670,8 +1670,8 @@ void XD7kFstGd3()
   ;
  for (vK_Tb2f4LK = 0; vK_Tb2f4LK*16*Ni4LED3jUH < TSiSLYknYn; vK_Tb2f4LK ++)
   ;
- printf("\33[1;32m[%s,%d,%s] " "real_w: %d, real_h: %d" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1716, __func__, ceO5NPYidU, vK_Tb2f4LK);
- printf("\33[1;32m[%s,%d,%s] " "j:确定 k:返回 l:下一回合" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1717, __func__);
- printf("\33[1;32m[%s,%d,%s] " "p:制造单位 -:单位索引-- +:单位索引++ i:强制清除单位" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1718, __func__);
- printf("\33[1;32m[%s,%d,%s] " "o:开启地图编辑 [:地图索引-- ]:地图索引++ 0:吸取当前地图到地图寄存器中" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171240525/main.c", 1719, __func__);
+ printf("\33[1;32m[%s,%d,%s] " "real_w: %d, real_h: %d" "\33[0m\n", "171240525/main.c", 1716, __func__, ceO5NPYidU, vK_Tb2f4LK);
+ printf("\33[1;32m[%s,%d,%s] " "j:确定 k:返回 l:下一回合" "\33[0m\n", "171240525/main.c", 1717, __func__);
+ printf("\33[1;32m[%s,%d,%s] " "p:制造单位 -:单位索引-- +:单位索引++ i:强制清除单位" "\33[0m\n", "171240525/main.c", 1718, __func__);
+ printf("\33[1;32m[%s,%d,%s] " "o:开启地图编辑 [:地图索引-- ]:地图索引++ 0:吸取当前地图到地图寄存器中" "\33[0m\n", "171240525/main.c", 1719, __func__);
 }

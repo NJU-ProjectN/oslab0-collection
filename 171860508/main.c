@@ -363,7 +363,7 @@ int8_t Wv1JqEgtYr(int gZ5nzpxC8r) {
   struct akI2wblQIp CmxyfEd65Y = Lr13OEObb4.OqmibpybCn;
   for (int lN3Q1bY4Lc = 0; lN3Q1bY4Lc < mh0RAtmVTW; ++lN3Q1bY4Lc) {
     if (gZ5nzpxC8r == LgD4fP0CW4[lN3Q1bY4Lc].cZ5d65ts5U) {
-      if (gZ5nzpxC8r != _KEY_NONE) printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "[%s]" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171860508/main.c", 469, __func__, LgD4fP0CW4[lN3Q1bY4Lc].h7WHgbkyVu);
+      if (gZ5nzpxC8r != _KEY_NONE) printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "[%s]" "\33[0m\n", "171860508/main.c", 469, __func__, LgD4fP0CW4[lN3Q1bY4Lc].h7WHgbkyVu);
       CmxyfEd65Y = LgD4fP0CW4[lN3Q1bY4Lc].Apv7PJcujL(CmxyfEd65Y, LgD4fP0CW4[lN3Q1bY4Lc].raB0cxTuRP);
       break;
     }
@@ -395,7 +395,7 @@ struct akI2wblQIp hRIJHsqzlx() {
   return CmxyfEd65Y;
 }
 struct akI2wblQIp tl7Kc3Gx6U(struct akI2wblQIp EBXJ01b3X8, int8_t fJYKmt6jcb) {
-  if (fJYKmt6jcb) printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "233333" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171860508/main.c", 507, __func__);
+  if (fJYKmt6jcb) printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "233333" "\33[0m\n", "171860508/main.c", 507, __func__);
   struct akI2wblQIp HFiQY7M_0g;
   HFiQY7M_0g.oT4p6Ulx7J = dVcc1z7igq;
   HFiQY7M_0g.W2yp9bnpy5 = Lr13OEObb4.PbckqMrTl2[0];
@@ -425,10 +425,10 @@ struct akI2wblQIp Ni4LED3jUH(struct akI2wblQIp N4HsEUMz4N, int8_t UQhKx6F_4t) {
   }
   if (UQhKx6F_4t || memcmp(&CmxyfEd65Y, &N4HsEUMz4N, sizeof(struct akI2wblQIp)) == 0) {
     if (!ceO5NPYidU(CmxyfEd65Y)) {
-      printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "Game over" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171860508/main.c", 539, __func__);
+      printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "Game over" "\33[0m\n", "171860508/main.c", 539, __func__);
       return Tv6KTe3f4h;
     } else {
-      printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "Touch ground" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171860508/main.c", 542, __func__);
+      printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "Touch ground" "\33[0m\n", "171860508/main.c", 542, __func__);
       Tr4A1w4VGP(CmxyfEd65Y);
       wcwGfNsCkC();
       CmxyfEd65Y.oT4p6Ulx7J = dVcc1z7igq;
@@ -437,7 +437,7 @@ struct akI2wblQIp Ni4LED3jUH(struct akI2wblQIp N4HsEUMz4N, int8_t UQhKx6F_4t) {
       Lr13OEObb4.PbckqMrTl2[3 - 1] = pVquJtRsOw();
       if (ceO5NPYidU(CmxyfEd65Y)) {
         c8HmnZyjKm();
-        printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "New tetromino: ((%d, %d), %d)" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171860508/main.c", 551, __func__, CmxyfEd65Y.oT4p6Ulx7J.PNOyOWxJpK, CmxyfEd65Y.oT4p6Ulx7J.JIGYRzzmas, CmxyfEd65Y.W2yp9bnpy5);
+        printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "New tetromino: ((%d, %d), %d)" "\33[0m\n", "171860508/main.c", 551, __func__, CmxyfEd65Y.oT4p6Ulx7J.PNOyOWxJpK, CmxyfEd65Y.oT4p6Ulx7J.JIGYRzzmas, CmxyfEd65Y.W2yp9bnpy5);
         return CmxyfEd65Y;
       } else {
         return Tv6KTe3f4h;
@@ -470,7 +470,7 @@ void wcwGfNsCkC() {
       } while (ngSRbtwYAy(lN3Q1bY4Lc));
       Fs8Hb_xg29(lN3Q1bY4Lc, Om5dYT6URx);
       Lr13OEObb4.vZkqLfCIMW += ZmBnADhg5k[Om5dYT6URx];
-      printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "Scored: %d" "\33[0m\n", "/home/yzh/project/ics/ics-code/oslab0-collection/171860508/main.c", 587, __func__, ZmBnADhg5k[Om5dYT6URx]);
+      printf("\33[0m[\33[1;35mLog\33[0m]\33[1;34m[%s,%d,%s] " "Scored: %d" "\33[0m\n", "171860508/main.c", 587, __func__, ZmBnADhg5k[Om5dYT6URx]);
       return;
     }
   }
